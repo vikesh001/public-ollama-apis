@@ -23,5 +23,3 @@ You can import the API connections by [Open-Webui](https://github.com/open-webui
 ## NOTES
 APIs are sourced from public web resources, please take care of data security.
 
-## License
-[MIT](LICENSE) (c) 2022 public-apis
