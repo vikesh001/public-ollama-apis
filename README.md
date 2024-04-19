@@ -8,6 +8,8 @@
 ## APIS
 API | Models | Country |
 |---|---|---|
+| [API](http://203.176.92.145:8081) | gemma:7b,llama2-chinese:13b-chat-q8_0,llama3:70b,llama3:8b,qwen:32b,qwen:72b,qwen14b-chat:latest | 🇨🇳 |
+| [API](http://172.200.209.112:8089) | gemma:7b,deepseek-llm:latest,llama2:latest,mistral:latest | 🇨🇳 |
 | [API](http://34.227.229.111:8081) | llama2:latest,mistral:latest | 🇺🇸 |
 | [API](http://131.94.128.132:9001) | llama2:latest,mixtral:latest | 🇺🇸 |
 | [API](http://82.157.143.130:7434) | llama2:13b,llama2:latest,starling-lm:latest | 🇨🇳 |
