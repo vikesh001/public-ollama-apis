@@ -29,9 +29,6 @@ API | Models | Country |
 ## HOW TO USE
 You can copy and import the API connections by Ollama clients like [Open-Webui](https://github.com/open-webui/open-webui), [Anything LLM](https://github.com/Mintplex-Labs/anything-llm).
 
-## Trial Endpoint Deployed in Huggingface
-[Open-webui DEMO](https://huggingface.co/spaces/vilarin/open-webui)
-
 ## NOTES
 - APIs are sourced from public web resources, please take care of data security.
 - Public resource, please do not pull or delete models.
