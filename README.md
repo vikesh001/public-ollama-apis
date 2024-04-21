@@ -8,7 +8,7 @@
 ## APIS
 API | Models | Country |
 |---|---|---|
-| [API](http://172.200.209.112:8089) | deepseek-llm:latest,gemma:7b,llama2:latest,meditron:70b | 🇺🇸 |
+| [API](http://37.233.8.197:8081) | gemma:latest,gemma:7b,llama2:latest,mixtral:latest | 🇺🇸 |
 | [API](http://169.48.169.92:9001) | codellama:70b,llama2:latest | 🇺🇸 |
 | [API](http://107.172.34.160:8081 ) | deepseek-coder:33b,qwen:14b,qwen:32b | 🇺🇸 |
 | [API](http://203.176.92.145:8081) | gemma:7b,llama2-chinese:13b-chat-q8_0,llama3:70b,llama3:8b,qwen:32b,qwen:72b,qwen14b-chat:latest | 🇨🇳 |
@@ -27,7 +27,10 @@ API | Models | Country |
 
 
 ## HOW TO USE
-You can copy and import the API connections by [Open-Webui](https://github.com/open-webui/open-webui), [Anything LLM](https://github.com/Mintplex-Labs/anything-llm).
+You can copy and import the API connections by Ollama clients like [Open-Webui](https://github.com/open-webui/open-webui), [Anything LLM](https://github.com/Mintplex-Labs/anything-llm).
+
+## Trial Endpoint Deployed in Huggingface
+[Open-webui DEMO](https://huggingface.co/spaces/vilarin/open-webui)
 
 ## NOTES
 - APIs are sourced from public web resources, please take care of data security.
