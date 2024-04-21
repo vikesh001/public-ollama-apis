@@ -8,6 +8,21 @@
 ## APIS
 API | Models | Country |
 |---|---|---|
+| [API](http://44.221.37.143:80) | mistral:latest | 🇺🇸 |
+| [API](https://llama.bytecareitalia.com) | llama2:latest | 🇮🇹 |
+| [API](http://54.234.68.223:80) | mistral:latest | 🇺🇸 |
+| [API](http://54.205.3.58:80) | vicuna:latest | 🇺🇸 |
+| [API](http://210.212.210.104:84) | llama3:latest,llava:latest | 🇮🇳 |
+| [API](http://122.186.126.218:5666) | gemma:7b,llama2:latest | 🇮🇳 |
+| [API](http://86.8.4.246) | codellama:latest,mistral:latest | 🇺🇸 |
+| [API](https://llm.fixy.site) | mistral:latest | 🇺🇸 |
+| [API](https://aicode.mackerelsolutions.com) | codellama:13b | 🇮🇳 |
+| [API](http://104.248.246.235:80) | llama:latest | 🇩🇪 |
+| [API](http://119.3.179.233:80) | qwen:7b | 🇨🇳 |
+| [API](http://82.156.142.8:8029) | llava:7b,llama2:latest,qwen:14b | 🇨🇳 |
+| [API](http://111.230.71.93:80) | deepseek-coder:latest,tinyllama:latest | 🇨🇳 |
+| [API](http://119.3.179.233:80) | qwen:7b | 🇨🇳 |
+| [API](http://121.5.171.37:80) | gemma:7b,qwen:4b | 🇨🇳 |
 | [API](http://37.233.8.197:8081) | gemma:latest,gemma:7b,llama2:latest,mixtral:latest | 🇺🇸 |
 | [API](http://169.48.169.92:9001) | codellama:70b,llama2:latest | 🇺🇸 |
 | [API](http://107.172.34.160:8081 ) | deepseek-coder:33b,qwen:14b,qwen:32b | 🇺🇸 |
@@ -30,5 +45,7 @@ API | Models | Country |
 You can copy and import the API connections by Ollama clients like [Open-Webui](https://github.com/open-webui/open-webui), [Anything LLM](https://github.com/Mintplex-Labs/anything-llm).
 
 ## NOTES
+- Shared APIs are obtained through search engines(Queried by ollama http body), if you are using it privately, deploy ollama please avoid opening it to the public or add nginx for authentication.
+- If you need to contribute your node or the shared node fails or you don't want to be shared (we suggest you refer to the previous point to close the external service), please submit issues.
 - APIs are sourced from public web resources, please take care of data security.
-- Public resource, please do not pull or delete models.
+- Public resource, please do not pull or delete models. Do not abuse.
