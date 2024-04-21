@@ -8,6 +8,9 @@
 ## APIS
 API | Models | Country |
 |---|---|---|
+| [API](http://172.200.209.112:8089) | deepseek-llm:latest,gemma:7b,llama2:latest,meditron:70b | 🇺🇸 |
+| [API](http://169.48.169.92:9001) | codellama:70b,llama2:latest | 🇺🇸 |
+| [API](http://107.172.34.160:8081 ) | deepseek-coder:33b,qwen:14b,qwen:32b | 🇺🇸 |
 | [API](http://203.176.92.145:8081) | gemma:7b,llama2-chinese:13b-chat-q8_0,llama3:70b,llama3:8b,qwen:32b,qwen:72b,qwen14b-chat:latest | 🇨🇳 |
 | [API](http://172.200.209.112:8089) | gemma:7b,deepseek-llm:latest,llama2:latest,mistral:latest | 🇨🇳 |
 | [API](http://34.227.229.111:8081) | llama2:latest,mistral:latest | 🇺🇸 |
