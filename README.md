@@ -8,6 +8,10 @@
 ## APIS
 API | Models | Country |
 |---|---|---|
+| [API](http:///34.49.117.210) | starcoder2:latest | 🇺🇸 |
+| [API](http://34.133.223.69) | codegemma:latest,llama3:latest | 🇺🇸 |
+| [API](http://34.49.128.186) | llama2:latest | 🇺🇸 |
+| [API](http://35.209.146.25) | llama3:latest | 🇺🇸 |
 | [API](http://44.221.37.143:80) | mistral:latest | 🇺🇸 |
 | [API](https://llama.bytecareitalia.com) | llama2:latest | 🇮🇹 |
 | [API](http://54.234.68.223:80) | mistral:latest | 🇺🇸 |
@@ -26,12 +30,12 @@ API | Models | Country |
 | [API](http://37.233.8.197:8081) | gemma:latest,gemma:7b,llama2:latest,mixtral:latest | 🇺🇸 |
 | [API](http://169.48.169.92:9001) | codellama:70b,llama2:latest | 🇺🇸 |
 | [API](http://107.172.34.160:8081 ) | deepseek-coder:33b,qwen:14b,qwen:32b | 🇺🇸 |
-| [API](http://203.176.92.145:8081) | gemma:7b,llama2-chinese:13b-chat-q8_0,llama3:70b,llama3:8b,qwen:32b,qwen:72b,qwen14b-chat:latest | 🇨🇳 |
+| [API](http://203.176.92.145:8081) | gemma:7b,llama3:70b,llama3:8b,qwen:32b,qwen:72b,qwen14b-chat:latest | 🇨🇳 |
 | [API](http://172.200.209.112:8089) | gemma:7b,deepseek-llm:latest,llama2:latest,mistral:latest | 🇨🇳 |
 | [API](http://34.227.229.111:8081) | llama2:latest,mistral:latest | 🇺🇸 |
 | [API](http://131.94.128.132:9001) | llama2:latest,mixtral:latest | 🇺🇸 |
 | [API](http://82.157.143.130:7434) | llama2:13b,llama2:latest,starling-lm:latest | 🇨🇳 |
-| [API](http://38.175.193.194:80) | llama2-uncensored:latest,gdisney/zephyr-uncensored:latest,deepseek-coder:33b,deepseek-coder:latest,llama2-uncensored:latest,wizard-vicuna-uncensored:30b-q4_0 | 🇺🇸 |
+| [API](http://38.175.193.194:80) | llama2-uncensored:latest,gdisney/zephyr-uncensored:latest,deepseek-coder:33b | 🇺🇸 |
 | [API](http://35.209.146.25:80) | llama2:latest,zinai:latest,zinai3:latest | 🇺🇸 |
 | [API](http://34.133.223.69:80) | bakllava:latest,gemma:latest,llama2:latest,llava:latest,mistral:latest,zephyr:latest | 🇺🇸 |
 | [API](http://217.133.1.90:80) | llama2:13b,llama2:70b,llama2:latest,mario:latest | 🇮🇹 |
