@@ -18,7 +18,7 @@ API | Models | Country |
 | [API](https://llm.fixy.site) | mistral:latest | 🇺🇸 |
 | [API](https://aicode.mackerelsolutions.com) | codellama:13b | 🇮🇳 |
 | [API](http://104.248.246.235:80) | llama:latest | 🇩🇪 |
-| [API](http://119.3.179.233:80) | qwen:7b | 🇨🇳 |
+| [API](https://ollama.talentum.edu.co) | orca-mini:latest | 🇺🇸 |
 | [API](http://82.156.142.8:8029) | llava:7b,llama2:latest,qwen:14b | 🇨🇳 |
 | [API](http://111.230.71.93:80) | deepseek-coder:latest,tinyllama:latest | 🇨🇳 |
 | [API](http://119.3.179.233:80) | qwen:7b | 🇨🇳 |
