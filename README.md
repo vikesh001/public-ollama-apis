@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Open Ollama API</h1>
+    <h1>Public Ollama APIs</h1>
     <i>A collective list of free and public Ollama APIs</i>
 </div>
 
