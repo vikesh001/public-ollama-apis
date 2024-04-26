@@ -8,6 +8,7 @@
 ## APIS
 API | Models | Country |
 |---|---|---|
+| [API](https://ollama-worker.deployradiant.com) | mixtral:latest,mistral:latest | 🇺🇸 |
 | [API](http:///34.49.117.210) | starcoder2:latest | 🇺🇸 |
 | [API](http://34.133.223.69) | codegemma:latest,llama3:latest | 🇺🇸 |
 | [API](http://34.49.128.186) | llama2:latest | 🇺🇸 |
