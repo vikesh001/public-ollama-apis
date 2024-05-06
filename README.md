@@ -40,9 +40,7 @@ API | Models | Country |
 | [API](http://35.209.146.25:80) | llama2:latest,zinai:latest,zinai3:latest | 🇺🇸 |
 | [API](http://34.133.223.69:80) | bakllava:latest,gemma:latest,llama2:latest,llava:latest,mistral:latest,zephyr:latest | 🇺🇸 |
 | [API](http://217.133.1.90:80) | llama2:13b,llama2:70b,llama2:latest,mario:latest | 🇮🇹 |
-| [API](http://123.231.9.147:8080) | mistral:latest | 🇱🇰 |
 | [API](http://66.55.65.14:8080) | llama2:13b | 🇺🇸 |
-| [API](http://36.66.109.246:8000) | dolphin-mixtral:latest,mixtral:latest,nous-hermes2-mixtral:latest,qwen:72b-chat | 🇮🇩 |
 | [API](http://34.117.58.184:80) | mistral:latest | 🇺🇸 |
 
 
